@@ -1,0 +1,23 @@
+*{margin:0;
+padding:0;
+box-sizing:border-box}
+.box_head{background-color:red;height:100px;}
+.head1{color:greenyellow;;text-align:center;padding-top: 10px;}
+.se{color:white;margin-left:20px;}
+.home1{display:inline;margin-left: 1000px;}
+.a1{padding-right:20px;}
+.a1:hover{color:green}
+.image_po{height:400px;border-radius:200px;padding:50px;border:double white; margin:20px}
+.box{background-color: black;
+   color:white; }
+.box_profile{display:flex;}
+.para{margin:150px;
+font-family:Arial, sans-serif;
+font-size:large;
+letter-spacing: 2px;
+padding:10px}
+.myb{
+margin-left: 700px;
+}
+.end_line{text-align: center;
+color:aqua}
